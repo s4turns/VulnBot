@@ -1,5 +1,4 @@
-# Shitty python vuln bot
-ok here we go..
+# VulnBot
 
 python3 vulns.py
 
